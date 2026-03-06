@@ -53,6 +53,7 @@ Net Sales Over Time (FY2017-FY2021 YTD)
 <img width="472" height="291" alt="Category_2_Insight_1" src="https://github.com/user-attachments/assets/e98d9535-e0d2-4e3f-b801-5672bbcfa58e" />
 
 Overall Product Positioning (FY2017-FY2021)
+
 Note: The blue dashed line represents the median
   
 * The Games and Toys category has continued to underperform the most since FY2017 as shown above. In FY2021 YTD, the category's gross margin is below the median of 58.32% by sitting at 54.65%, as does net sales which sits at $51,229.39 when the median is $344,471.71. This underperformance is due to the low sales or relative popularity of both Download Games and Boxed Games despite being sold for less profit (low gross margin). Boxed Games have consistently generated the least amount of gross profit among all the company's products from FY2017 to FY2021 (YTD) as Boxed Games generated a total gross profit of $49,999.16, which was about 95.11% below the median.
@@ -82,6 +83,7 @@ Data Filtered to the US (FY2020-FY2021 YTD)
 * Italy was shown as the third worst country for total gross profit between FY2020 and FY2021 (YTD). However, deeper analysis revealed that the average gross profit per store in Italy was $172,655.12, which was above average. The underlying cause for the low level of aggregate gross profit was attributed to Italy only having two stores in operation between FY2020 and FY2021 (YTD).
 
 <img width="359" height="188" alt="Category_3_Insight3" src="https://github.com/user-attachments/assets/c9a9281c-ae74-4a7a-86ca-7fc147a9d871" />
+
 Gross Profit from Italy (FY2020-FY2021 YTD)
 
 # Recommendations:

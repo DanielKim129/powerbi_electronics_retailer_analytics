@@ -26,6 +26,7 @@ The original dataset was sourced from [Maven Analytics Free Datasets](https://ma
 From FY2017 to FY2021, the company exhibited strong annual seasonal patterns in net sales which tended to hit a trough in April of each year before rising again to peak in between December and February the following year. The company experienced negative YoY growth in FY2021 (YTD) for key performance indicators including -75.88% YoY growth for net profit, -75.82% for gross profit and -76.28% for units sold. This decline could largely be attributed to the pandemic that began to take effect from early 2020. Further, the Games and Toys category has consistently underperformed since FY2017 with boxed games of this category showing concerningly low gross profit. Finally, despite above average gross profits in Italy, it currently has the least number of stores in operation.
 
 <img width="1122" height="628" alt="Overview page" src="https://github.com/user-attachments/assets/3611faf8-6353-4128-a0b4-ee32678be0ee" />
+
 Overview Page
 
 # Insights Deep Dive
@@ -34,6 +35,7 @@ Overview Page
 * The company's net sales follow a strong seasonal pattern where sales tend to fall until May each year before sharply increasing again. However, in the fiscal year of 2021 (YTD), the company's YoY growth for net sales fell to an all-time low in five years of -75.88%. This decline reflects the decline in consumption and rise in lock-downs after the pandemic became an international concern from January 2020.
 
 <img width="718" height="238" alt="Category_1_Insight1" src="https://github.com/user-attachments/assets/9eda4a50-a4eb-43ff-84f4-982c588f4f40" />
+
 Net Sales Over Time (FY2017-FY2021 YTD)
 
 * Pre-pandemic trends show that the company experienced positive YoY growth over time in net sales, gross profit and the total number of orders. In turn, these metrics peaked in December 2019 with gross profit reaching $1,435,548.24. Such positive YoY growth highlights that the company was doing well and growing before the external shock of the pandemic.
@@ -49,6 +51,7 @@ Net Sales Over Time (FY2017-FY2021 YTD)
 * Computers consistently remained the top product category from FY2017 to FY2021. In the current fiscal year of 2021 (YTD), computers account for 48.26% of gross profit. Further, overall product positioning based on the data aggregated from FY2017 to FY2021 (YTD) shows that the computers category was an outlier by performing substantially better compared to the rest of the categories. Computers also followed an increasing trend in net sales over time before the pandemic-induced decline in 2020.
 
 <img width="472" height="291" alt="Category_2_Insight_1" src="https://github.com/user-attachments/assets/e98d9535-e0d2-4e3f-b801-5672bbcfa58e" />
+
 Overall Product Positioning (FY2017-FY2021)
 Note: The blue dashed line represents the median
   
@@ -57,11 +60,13 @@ Note: The blue dashed line represents the median
 * The home appliances category started to decline in performance from FY2020 with YoY Growth of -26.01% for gross profit, -28.14% for total orders and -0.16% for gross margin in FY2020. This decline became first apparent from the first quarter of FY2020 before the pandemic. As a result of this decline, the home appliances category did not show an increasing trend in gross profit before the pandemic as opposed to the other categories, which means the decline in home appliances should not simply be attributed to the pandemic.
 
 <img width="575" height="227" alt="Category_2_Insight3" src="https://github.com/user-attachments/assets/06d0e4d2-69af-4e76-a790-f66f2a236e14" />
+
 Gross Profit from Home Appliances (FY2017-FY2021 YTD)
 
 * Deeper analysis for the root cause of this decline in the home appliances category has shown that all of its subcategories exhibited the pre-pandemic decline with concerningly large negative YoY growth in gross profit (FY2020) as opposed to other categories. Among these subcategories under home appliances, the subcategory of microwaves displayed the worst YoY growth of -46.13%. This decline was not unique to a specific brand but was present in all brands of this microwave subcategory.
 
 <img width="352" height="448" alt="Category_2_Insight_4" src="https://github.com/user-attachments/assets/205fa843-3f27-4784-a441-f994faebe48c" />
+
 Data Filtered to Microwaves (FY2020)
 
 ### Store Region Performance:
@@ -71,6 +76,7 @@ Data Filtered to Microwaves (FY2020)
 * Stores in the United States have been the greatest contributor of gross profit since FY2017, even more than the company's online store that includes all transactions online regardless of the customer's country. From FY2020 up to FY2021 YTD (in most recent years), gross profit in the US more than doubled that of online transactions. In the same period, average gross profit per physical store in the US was $257,097.87 which was about 68.29 % greater than the average of $158,716.67 (the online store and all stores that were not in operation during these years were excluded).
 
 <img width="351" height="442" alt="Category_3_Insight_2" src="https://github.com/user-attachments/assets/5fb0c2ff-edda-47b8-a585-3b598bc7f3c4" />
+
 Data Filtered to the US (FY2020-FY2021 YTD)
 
 * Italy was shown as the third worst country for total gross profit between FY2020 and FY2021 (YTD). However, deeper analysis revealed that the average gross profit per store in Italy was $172,655.12, which was above average. The underlying cause for the low level of aggregate gross profit was attributed to Italy only having two stores in operation between FY2020 and FY2021 (YTD).

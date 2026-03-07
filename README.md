@@ -86,7 +86,7 @@ Data Filtered to the US (FY2020-FY2021 YTD)
 
 Gross Profit from Italy (FY2020-FY2021 YTD)
 
-# Recommendations:
+# Recommendations
 
 Based on the insights and findings above, the following recommendations are provided:
 

@@ -17,7 +17,7 @@ The main database structure for Boost Digital follows a star schema that is comp
 
 <img width="1471" height="1199" alt="ER Diagram Boost Digital" src="https://github.com/user-attachments/assets/3fcce726-1c2f-41f7-a410-481670fc2816" />
 
-The original dataset was sourced from [Maven Analytics Free Datasets](https://mavenanalytics.io/data-playground/global-electronics-retailer), but for reproducibility, I have included the version I used directly in this repository in case the source is updated. Data cleaning was performed on this data by removing unused columns, renaming columns and replacing error-prone values. Afterwards, data modelling was performed by establishing relationships and creating a star schema as above with the inclusion of a new date table.
+The original dataset was sourced from [Maven Analytics Free Datasets](https://mavenanalytics.io/data-playground/global-electronics-retailer). However, for reproducibility and in case the source is updated, the version of the original dataset used in this project has also been included in the `original_dataset` folder of this repository. Data cleaning was performed on this data by removing unused columns, renaming columns and replacing error-prone values. Afterwards, data modelling was performed by establishing relationships and creating a star schema as above with the inclusion of a new date table.
 
 # Executive Summary
 

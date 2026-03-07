@@ -1,5 +1,5 @@
 # Project Background
-Boost Digital is a global electronics retailer that sells a wide variety of electronic goods both online and in store across 8 countries. It was established in 2010 and has since then expanded globally over time. This report aims to provide insights through analysis of the company's data from FY2017 to FY2021 year-to-date assuming that the company is currently in FY2021. Note that this company's fiscal year runs from 1 July to 30 June, in line with the Australian financial year.
+Boost Digital is a simulated global electronics retailer that sells a wide variety of electronic goods both online and in store across 8 countries. It was established in 2010 and has since then expanded globally over time. This report aims to provide insights through analysis of the company's data from FY2017 to FY2021 year-to-date assuming that the company is currently in FY2021. Note that this company's fiscal year runs from 1 July to 30 June, in line with the Australian financial year.
 
 The project involved developing a Power BI report for the company in order to synthesise and analyse its vast amounts of data from FY2017 to FY2021 and better understand key trends and drivers within sales and profit.
 

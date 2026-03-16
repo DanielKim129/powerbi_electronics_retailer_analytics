@@ -70,7 +70,7 @@ Gross Profit from Home Appliances (FY2017-FY2021 YTD)
 
 Data Filtered to Microwaves (FY2020)
 
-### Store Region Performance:
+### Store Region Performance
 
 * Stores in France consistently generated the least amount of gross profit from FY2017 up to FY2020 but in FY2021, they generated more gross profit than Netherlands and Italy. Upon further examination France's gross profit experienced a smaller decline, its YoY growth (FY2021 YTD) being -65.68%, than Italy with -86.87% and Netherlands with -78.79%. Hence, this change in ranking could be attributed to Boost Digital's electronics stores in France being potentially less impacted by the pandemic than those of Netherlands and Italy. 
   

@@ -30,7 +30,7 @@ From FY2017 to FY2021, the company exhibited strong annual seasonal patterns in 
 Overview Page
 
 # Insights Deep Dive
-### Key Trends:
+### Key Trends
 
 * The company's net sales follow a strong seasonal pattern where sales tend to fall until May each year before sharply increasing again. However, in the fiscal year of 2021 (YTD), the company's YoY growth for net sales fell to an all-time low in five years of -75.88%. This decline reflects the decline in consumption and rise in lock-downs after the pandemic became an international concern from January 2020.
 
